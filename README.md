@@ -5,8 +5,8 @@ PROOF OF CONCEPT
 
 The data:
 
-    The data is randomly generated.
-    The map locations do not correspond to actual emergencies.
+    -The data is randomly generated.
+    -The map locations do not correspond to actual emergencies.
 
 The crisis management app streamlines emergency response by allowing users to quickly send their location, message, and contact information to authorities. First responders can view real-time emergency calls on a map, identify the nearest base of operations, and calculate optimal response routes and times. The platform also provides high-level statistics for improved resource allocation and crisis analysis.
 
